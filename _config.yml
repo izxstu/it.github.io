@@ -3,5 +3,3 @@ description: CS Student
 sass:
   style: :compressed
 theme: jekyll-theme-primer
-github:
-  private: true
